@@ -1,9 +1,7 @@
-package com.ctm.sparkwordcount
+package com.SparkCassandra
 
-import org.apache.spark._
 import com.datastax.spark.connector._
-
-import org.apache.spark.SparkContext
+import org.apache.spark.{SparkContext, _}
 
 
 object rddCassandra {

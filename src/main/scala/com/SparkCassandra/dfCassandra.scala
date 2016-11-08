@@ -1,7 +1,6 @@
-package com.ctm.sparkwordcount
+package com.SparkCassandra
 
-import org.apache.spark._
-import org.apache.spark.SparkContext
+import org.apache.spark.{SparkContext, _}
 
 
 object dfCassandra {

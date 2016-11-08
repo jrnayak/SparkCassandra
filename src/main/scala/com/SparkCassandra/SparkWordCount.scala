@@ -1,6 +1,6 @@
-package com.ctm
+package com.SparkCassandra
 
-  import org.apache.spark.{SparkConf, SparkContext}
+import org.apache.spark.{SparkConf, SparkContext}
 
   object SparkWordCount {
 
